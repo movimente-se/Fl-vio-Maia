@@ -136,8 +136,7 @@
     <h2>Flávio Maia</h2>
   </header>
 
-  <img
-    src="capa do livro MOVIMENTE-SE.jpg" alt="Capa do livro MOVIMENTE-SE" style="max-width:100%; height:auto;">
+   <img src="nome-da-imagem.jpg" alt="capa do livro MOVIMENTE-SE" class="cover-image" /> 
     alt="capa do livro MOVIMENTE-SE"
     class="cover-image"
   />
