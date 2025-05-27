@@ -136,11 +136,8 @@
     <h2>Flávio Maia</h2>
   </header>
 
-   <img src="nome-da-imagem.jpg" alt="capa do livro MOVIMENTE-SE" class="cover-image" /> 
-    alt="capa do livro MOVIMENTE-SE"
-    class="cover-image"
-  />
-
+   <img src="capa do livro MOVIMENTE-SE.jpg" alt="capa do livro MOVIMENTE-SE" class="cover-image" /> 
+   
   <section class="description">
     <p><strong>MOVIMENTE-SE…</strong> é um chamado direto para quem se sente preso, parado ou desconectado dos próprios sonhos. Se em algum momento você já disse “minha vida não anda” ou “não sei por onde começar”, este livro é para você.</p>
 
