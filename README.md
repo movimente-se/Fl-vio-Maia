@@ -137,7 +137,7 @@
   </header>
 
   <img
-    src="https://via.placeholder.com/320x480?text=Capa+do+Livro+MOVIMENTE-SE"
+    src="capa do livro MOVIMENTE-SE.jpg" alt="Capa do livro MOVIMENTE-SE" style="max-width:100%; height:auto;">
     alt="Capa do livro MOVIMENTE-SE..."
     class="cover-image"
   />
