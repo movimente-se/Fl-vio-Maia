@@ -66,7 +66,7 @@
   </section>
 
   <!-- Botão de compra direcionando para Hotmart -->
-  <a href="https://go.hotmart.com/E99949797N" target="_blank" class="buy-button">Comprar por R$49,90</a>
+  <a href="https://hotmart.com/pt-br/marketplace/produtos/hagsxd-movimente-se-moahi/E99949797N" target="_blank" class="buy-button">Comprar por R$49,90</a>
 
 </body>
 </html>
