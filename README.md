@@ -138,7 +138,7 @@
 
   <img
     src="capa do livro MOVIMENTE-SE.jpg" alt="Capa do livro MOVIMENTE-SE" style="max-width:100%; height:auto;">
-    alt="Capa do livro MOVIMENTE-SE..."
+    alt="capa do livro MOVIMENTE-SE"
     class="cover-image"
   />
 
