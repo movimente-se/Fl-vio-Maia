@@ -1,102 +1,71 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>MOVIMENTE-SE... - Livro de Flávio Maia</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin:0; padding:0;
-    background: #f5f5f5;
-    color: #333;
-  }
-  .container {
-    max-width: 700px;
-    background: white;
-    margin: 40px auto;
-    padding: 20px 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  img.capa {
-    max-width: 100%;
-    height: auto;
-    border-radius: 6px;
-    margin-bottom: 20px;
-  }
-  h1 {
-    color: #2c3e50;
-    margin-bottom: 15px;
-  }
-  h2 {
-    color: #2980b9;
-    margin-top: 40px;
-    margin-bottom: 10px;
-  }
-  p {
-    line-height: 1.6;
-    margin-bottom: 15px;
-  }
-  .preco {
-    font-size: 1.8em;
-    color: #e74c3c;
-    font-weight: bold;
-    margin: 30px 0;
-  }
-  .botao {
-    display: inline-block;
-    background: #27ae60;
-    color: white;
-    text-decoration: none;
-    padding: 15px 30px;
-    font-size: 1.2em;
-    border-radius: 6px;
-    transition: background 0.3s ease;
-  }
-  .botao:hover {
-    background: #219150;
-  }
-  @media(max-width: 480px) {
-    .container {
-      margin: 20px;
-      padding: 15px 20px;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MOVIMENTE-SE - Flávio Maia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
     }
-  }
-</style>
+    header {
+      text-align: center;
+    }
+    .cover-image {
+      display: block;
+      margin: 20px auto;
+      max-width: 300px;
+      width: 100%;
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    section.description {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .buy-button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto;
+      padding: 15px 30px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+      transition: background-color 0.3s ease;
+    }
+    .buy-button:hover {
+      background-color: #218838;
+    }
+  </style>
 </head>
 <body>
-  <div class="container">
-    <img src="URL_DA_SUA_CAPA_AQUI" alt="Capa do livro MOVIMENTE-SE" class="capa" />
+  <header>
     <h1>MOVIMENTE-SE...</h1>
-    <p><strong>Autor:</strong> Flávio Maia</p>
-    <p><em>“MOVIMENTE-SE…” é um chamado direto para quem se sente preso, parado ou desconectado dos próprios sonhos. Se em algum momento você se pegou dizendo “minha vida não anda” ou “não sei por onde começar”, este livro é para você.</em></p>
+    <h2>Flávio Maia</h2>
+    <img src="capa-do-livro-MOVIMENTE-SE.jpg" alt="Capa do livro MOVIMENTE-SE" class="cover-image" />
+  </header>
+
+  <section class="description">
+    <p><strong>MOVIMENTE-SE…</strong> é um chamado direto para quem se sente preso, parado ou desconectado dos próprios sonhos. Se em algum momento você já disse “minha vida não anda” ou “não sei por onde começar”, este livro é para você.</p>
+
     <p>Aqui, você vai refletir sobre os ciclos de estagnação, entender como a inércia mental e emocional nos prende e, principalmente, descobrir caminhos práticos para sair desse estado.</p>
-    <p>Por meio de reflexões, provocações e estratégias objetivas, Flávio Maia — profissional formado em Processos Gerenciais e apaixonado por desenvolvimento pessoal — conduz você a entender que o movimento não é um destino, e sim um processo constante de crescimento, reinvenção e evolução.</p>
-    <p>Este livro não traz fórmulas mágicas, nem promessas vazias. Ele oferece algo muito mais poderoso: um convite real, urgente e transformador para que você assuma o protagonismo da sua vida, levante-se, dê o primeiro passo… e siga em frente.</p>
-    <p>Porque viver é movimento. E o seu começa agora.</p>
 
-    <h2>Sobre o livro</h2>
-    <p>“MOVIMENTE-SE...” é um convite direto para quem está cansado de esperar que a vida mude sozinha. O livro traz uma mensagem poderosa: a transformação só acontece quando você sai da estagnação e entra em movimento.</p>
-    <p>Ao longo da leitura, o autor mostra que sonhar é importante, mas sem ação, os sonhos permanecem apenas no campo das ideias. O livro apresenta ferramentas, reflexões e estratégias práticas para ajudar qualquer pessoa a superar a procrastinação, romper com o medo e desenvolver disciplina e consistência.</p>
-    <p><strong>Ideia central:</strong> Ação é a ponte entre o sonho e a realização. Só pensar, planejar ou esperar não gera resultados. O movimento, mesmo que com pequenos passos, é o que ativa as mudanças e abre novos caminhos.</p>
-    
-    <h2>Pontos principais</h2>
-    <ul>
-      <li>Sonhos são sementes, mas só crescem com ação.</li>
-      <li>Não espere pelo momento perfeito; ele não existe.</li>
-      <li>A Lei da Ação: o universo responde ao movimento.</li>
-      <li>Coragem não vem antes do primeiro passo, ela surge enquanto você caminha.</li>
-      <li>A disciplina de fazer um pouco todos os dias gera resultados extraordinários.</li>
-    </ul>
+    <p><strong>Flávio Maia</strong> — profissional formado em Processos Gerenciais e apaixonado por desenvolvimento pessoal — conduz você a entender que o movimento não é um destino, e sim um processo constante de crescimento, reinvenção e evolução.</p>
 
-    <h2>Exemplo prático</h2>
-    <p>O livro conta a história de Fabiana, que sonhava em abrir seu próprio café. Mesmo sem dinheiro e cheia de dúvidas, ela decidiu começar de onde estava, deu pequenos passos e, com o tempo, construiu um negócio de sucesso.</p>
+    <p>Este livro não traz fórmulas mágicas nem promessas vazias. Ele oferece algo mais poderoso: um convite real, urgente e transformador para que você assuma o protagonismo da sua vida, levante-se, dê o primeiro passo… e siga em frente. Porque viver é movimento. E o seu começa agora.</p>
+  </section>
 
-    <h2>Preço</h2>
-    <p class="preco">R$ 49,90</p>
-
-    <a href="LINK_HOTMART_AQUI" class="botao" target="_blank" rel="noopener noreferrer">Comprar agora</a>
-  </div>
+  <a class="buy-button" href="https://www.hotmart.com/link-do-produto" target="_blank">Comprar por R$49,90</a>
 </body>
 </html>
