@@ -66,7 +66,7 @@
   </section>
 
   <!-- Botão de compra direcionando para Hotmart -->
-  <a href="https://www.hotmart.com/product-link-aqui" target="_blank" class="buy-button">Comprar por R$49,90</a>
+  <a href="[https://www.hotmart.com/product-link-aqui](https://go.hotmart.com/E99949797N)" target="_blank" class="buy-button">Comprar por R$49,90</a>
 
 </body>
 </html>
